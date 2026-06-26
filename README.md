@@ -19,7 +19,7 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0072FF&height=2"/>
----
+
 
 # 🌸 About Me
 
@@ -35,11 +35,9 @@
 
 
 
----
 
 # 🚀 Tech Toolbox
 
-# 🚀 Tech Toolbox
 
 <p align="center">
 
@@ -53,14 +51,13 @@
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </p>
----
 
 # 📊 GitHub Analytics
 
@@ -72,7 +69,7 @@
 
 </p>
 
----
+
 
 # 🔥 GitHub Streak
 
@@ -80,7 +77,6 @@
 <img src="https://streak-stats.demolab.com?user=AnishkaKaithwas&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
 
 
@@ -88,7 +84,7 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnishkaKaithwas&theme=tokyo-night)](https://github.com/AnishkaKaithwas)
 
----
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=AnishkaKaithwas&label=Profile%20Views&color=00C9A7&style=for-the-badge"/>
